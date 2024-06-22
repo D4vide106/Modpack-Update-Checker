@@ -2,6 +2,81 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+      "id": "v10",
+      "releasedAt": 1702249500000 ,
+      "updateType": "minor"
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/4947273",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v11",
+      "releasedAt": 1702929840000,
+      "updateType": "minor"
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/4966936",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v12",
+      "releasedAt": 1706803980000,
+      "updateType": "incompatible"
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5074130",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v13",
+      "releasedAt": 1707698100000,
+      "updateType": "minor"
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5100633",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v14",
+      "releasedAt": 1708450500000,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5123538",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v15",
+      "releasedAt": 1709316120000,
+      "updateType": "incompatible"
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5149025",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v16",
+      "releasedAt": 209384099820,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/",
+          "curseforge": "https://curseforge.com/",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    }
   ]
 }
