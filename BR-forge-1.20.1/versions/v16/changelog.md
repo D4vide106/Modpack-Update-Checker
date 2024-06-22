@@ -1,0 +1,26 @@
+**[Update Release v16]**
+--
+### **FORGE IS NOW 47.3.31**
+Version v16 | [Curseforge](https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5123538) | [Modrinth](https://modrinth.com/project/project-boss-rpg) 
+
+**Changes:**
+--
+* Added and updated various mods (Check it out).
+* Additions. 
+* Updated main menu.
+* Added various dimensions.
+* Added various datapacks.
+* Updated various ResourcePacks.
+* Update of various ShaderPacks.
+* Proximity VoiceChat system .
+* Added ServerPack v16 for Multiplayer.
+* Added Public Server (On [Discord](https://discord.gg/thfPJ7QAPJ "Infinity Wonderful")).
+* Removed [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat).
+
+**Fixes:**
+----------
+* Configured some mods.
+* Corrected various mod configs.
+* Reconfigured key controls. (see description)
+---
+***AS ALWAYS BE SURE TO BACK UP YOUR WORLD BEFORE UPDATING***.
