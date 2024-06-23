@@ -1,4 +1,4 @@
-**[Small Update Beta v3.0]**
+**[Small Update Release v3.0]**
 --
 ### **FORGE IS NOW 43.3.5**
 Version v3.0 | [Curseforge](https://www.curseforge.com/minecraft/modpacks/project-horror/files/4864400) | [Modrinth](https://modrinth.com/project/project-horror) 
