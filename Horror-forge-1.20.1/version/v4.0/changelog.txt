@@ -1,0 +1,20 @@
+**[Medium Update Release v4.0]**
+--
+### **FORGE IS NOW 47.2.20**
+Version v4.0 | [Curseforge](https://www.curseforge.com/minecraft/modpacks/project-horror/files/5165349) | [Modrinth](https://modrinth.com/project/project-horror) 
+
+**Changes:**
+--
+*  Added various mods (Find out)
+*  Removed various mods
+*  Added personalized main menu v1.
+*  Riottimization, VR support and Controller!
+
+**Fixes:**
+----------
+ * Optimized various mods.
+*  Customization of mods configs.
+*  Fixed various crashing issues.
+---
+
+***AS ALWAYS BE SURE TO BACK UP YOUR WORLD BEFORE UPDATING***.
