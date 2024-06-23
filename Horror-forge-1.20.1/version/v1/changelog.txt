@@ -1,1 +1,15 @@
 
+**[Update Beta v1.0]**
+--
+### **FORGE IS NOW 43.3.5**
+Version v1.0 | [Curseforge](https://www.curseforge.com/minecraft/modpacks/project-horror/files/4857286) | [Modrinth](https://modrinth.com/project/project-horror) 
+
+**Changes:**
+--
+* Added More Mods
+
+**Fixes:**
+----------
+* none
+---
+~~***AS ALWAYS BE SURE TO BACK UP YOUR WORLD BEFORE UPDATING***.~~
