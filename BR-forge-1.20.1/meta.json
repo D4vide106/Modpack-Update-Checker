@@ -66,17 +66,6 @@
           "generic": "https://discord.gg/thfPJ7QAPJ"
         }
       }
-    },
-    {
-      "id": "v16",
-      "releasedAt": 209384099820,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/",
-          "curseforge": "https://curseforge.com/",
-          "generic": "https://discord.gg/thfPJ7QAPJ"
-        }
-      }
     }
   ]
 }
