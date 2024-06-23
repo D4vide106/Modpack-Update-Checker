@@ -1,0 +1,17 @@
+**[Update Alpha v3.2 (BAD)]**
+--
+### **FORGE IS NOW 43.3.5**
+Version v3.2 | [Curseforge](https://www.curseforge.com/minecraft/modpacks/project-horror/files/5074134) | [Modrinth](https://modrinth.com/project/project-horror) 
+
+**Changes:**
+--
+* Updated various mods (Find out)
+
+**Fixes:**
+----------
+ * none
+---
+
+## DON'T INSTALL THIS VERSION IS DEFECTIVE
+
+~~***AS ALWAYS BE SURE TO BACK UP YOUR WORLD BEFORE UPDATING***.~~
