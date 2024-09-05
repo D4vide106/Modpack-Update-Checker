@@ -4,8 +4,8 @@
   "versions": [
     {
       "id": "v10",
-      "releasedAt": 1702249500000 ,
-      "updateType": "minor"
+      "releasedAt": 1702249500000,
+      "updateType": "minor",
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/4947273",
@@ -16,7 +16,7 @@
     {
       "id": "v11",
       "releasedAt": 1702929840000,
-      "updateType": "minor"
+      "updateType": "minor",
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/4966936",
@@ -27,7 +27,7 @@
     {
       "id": "v12",
       "releasedAt": 1706803980000,
-      "updateType": "incompatible"
+      "updateType": "incompatible",
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5074130",
@@ -38,7 +38,7 @@
     {
       "id": "v13",
       "releasedAt": 1707698100000,
-      "updateType": "minor"
+      "updateType": "minor",
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5100633",
@@ -59,7 +59,7 @@
     {
       "id": "v15",
       "releasedAt": 1709316120000,
-      "updateType": "incompatible"
+      "updateType": "incompatible",
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5149025",
@@ -70,7 +70,7 @@
     {
       "id": "v16",
       "releasedAt": 1709316120000,
-      "updateType": "incompatible"
+      "updateType": "stable",
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5149025",
@@ -79,5 +79,5 @@
         }
       }
     }
-  }
+  ]
 }
