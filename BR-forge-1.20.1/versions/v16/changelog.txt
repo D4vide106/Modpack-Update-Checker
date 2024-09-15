@@ -1,6 +1,6 @@
 **[Update Release v16]**
 --
-### **FORGE IS NOW 47.3.31**
+### **FORGE IS NOW 47.3.7**
 Version v16 | [Curseforge](https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5123538) | [Modrinth](https://modrinth.com/project/project-boss-rpg) 
 
 **Changes:**
