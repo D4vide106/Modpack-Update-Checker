@@ -74,7 +74,31 @@
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5149025",
-          "modrinth": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5149025",
+          "modrinth": "https://modrinth.com/modpack/project-boss-rpg/version/v16",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v16.5",
+      "releasedAt": 1716506220000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5160000",
+          "modrinth": "https://modrinth.com/modpack/project-boss-rpg/version/v16.5",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v16r2",
+      "releasedAt": 1710600000000,
+      "updateType": "stable",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5170000",
+          "modrinth": "https://modrinth.com/modpack/project-boss-rpg/version/v16r2",
           "generic": "https://discord.gg/thfPJ7QAPJ"
         }
       }
