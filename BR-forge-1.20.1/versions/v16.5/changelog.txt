@@ -1,0 +1,23 @@
+<a href="https://bisecthosting.com/Projects">
+  <img src="https://i.imgur.com/in23uLp.png" alt="image">
+</a>
+
+**[Update Release v16.5]**
+--
+### **FORGE IS NOW 47.3.7**
+Version v16.5 | [Curseforge](https://www.curseforge.com/minecraft/modpacks/project-boss-rpg) | [Modrinth](https://modrinth.com/project/project-boss-rpg)
+
+This v16.5 version has been completely redone, with full multiplayer support, a new world creation system and other!! so if you are already a player you don't have to update, for all the new ones i highly recommend to download it! the official server is available! for bugs or anything else contact me in the comments! ‘the update will break your world’
+
+### Changes:
+
+*   Added and updated various Mods.
+*   Updated various ResurcePacks and ShaderPacks.
+*   Added ServerPack v16.5 for Multiplayer. 
+
+### Fixes:
+
+*   Fixed various mods.
+*   Key controls reconfigured. (see description)
+
+__**AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING**__
