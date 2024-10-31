@@ -52,11 +52,11 @@
     },
     {
       "id": "v5.0",
-      "releasedAt": 1708450500000,
+      "releasedAt": 1730403720000,
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5123538",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-horror/files/5863543",
           "modrinth": "https://modrinth.com/project/project-horror",
           "generic": "https://discord.gg/thfPJ7QAPJ"
         }
