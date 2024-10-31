@@ -4,7 +4,7 @@
   "versions": [
     {
       "id": "v1.0",
-      "releasedAt": 1702249500000,
+      "releasedAt": 1699641120000,
       "updateType": "minor",
       "promotions": {
         "downloads": {
@@ -16,7 +16,7 @@
     },
     {
       "id": "v3.0",
-      "releasedAt": 1702929840000,
+      "releasedAt": 1699891860000,
       "updateType": "minor",
       "promotions": {
         "downloads": {
@@ -28,7 +28,7 @@
     },
     {
       "id": "v3.2",
-      "releasedAt": 1706803980000,
+      "releasedAt": 1706804100000,
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
@@ -40,7 +40,7 @@
     },
     {
       "id": "v4.0",
-      "releasedAt": 1707698100000,
+      "releasedAt": 1709840940000,
       "updateType": "minor",
       "promotions": {
         "downloads": {
