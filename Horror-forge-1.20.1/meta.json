@@ -1,1 +1,66 @@
-
+{
+  "schemaVersion": 9,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "v1.0",
+      "releasedAt": 1702249500000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/4947273",
+          "modrinth": "https://modrinth.com/project/project-horror",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v3.0",
+      "releasedAt": 1702929840000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/4966936",
+          "modrinth": "https://modrinth.com/project/project-horror",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v3.2",
+      "releasedAt": 1706803980000,
+      "updateType": "incompatible",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5074130",
+          "modrinth": "https://modrinth.com/project/project-horror",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v4.0",
+      "releasedAt": 1707698100000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5100633",
+          "modrinth": "https://modrinth.com/project/project-horror",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    },
+    {
+      "id": "v5.0",
+      "releasedAt": 1708450500000,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5123538",
+          "modrinth": "https://modrinth.com/project/project-horror",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
+    }
+  ]
+}
