@@ -8,7 +8,7 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/4947273",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-horror/files/4857286",
           "modrinth": "https://modrinth.com/project/project-horror",
           "generic": "https://discord.gg/thfPJ7QAPJ"
         }
@@ -20,7 +20,7 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/4966936",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-horror/files/4864400",
           "modrinth": "https://modrinth.com/project/project-horror",
           "generic": "https://discord.gg/thfPJ7QAPJ"
         }
@@ -32,7 +32,7 @@
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5074130",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-horror/files/5074134",
           "modrinth": "https://modrinth.com/project/project-horror",
           "generic": "https://discord.gg/thfPJ7QAPJ"
         }
@@ -44,7 +44,7 @@
       "updateType": "minor",
       "promotions": {
         "downloads": {
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5100633",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-horror/files/5165349",
           "modrinth": "https://modrinth.com/project/project-horror",
           "generic": "https://discord.gg/thfPJ7QAPJ"
         }
@@ -53,7 +53,7 @@
     {
       "id": "v5.0",
       "releasedAt": 1708450500000,
-      "updateType": "minor",
+      "updateType": "incompatible",
       "promotions": {
         "downloads": {
           "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg/files/5123538",
