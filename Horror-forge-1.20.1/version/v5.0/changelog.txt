@@ -1,0 +1,31 @@
+<a href="https://bisecthosting.com/Projects">
+  <img src="https://i.imgur.com/xw4wJUB.png" alt="image">
+</a>
+
+**[Release update v5.0] [PARITY 1:1] [FROM CF]**
+
+---
+
+### **FORGE IS NOW 47.3.11**
+Version v5.0 | [Curseforge](https://www.curseforge.com/minecraft/modpacks/project-horror) | [Modrinth](https://modrinth.com/project/project-horror) 
+
+---
+
+**Changes:**
+- Completely revamped modpack with optimized performance.
+- New monsters added for enhanced gameplay.
+- Improved and optimized game mechanics and configurations.
+- Updated main menu for a fresh look.
+- Added Proximity VoiceChat system.
+- ServerPack v5.0 now available for Multiplayer compatibility.
+- Launched a Public Server (available on [Discord](https://discord.gg/thfPJ7QAPJ)).
+
+**Fixes:**
+- Reconfigured some mods for better integration.
+- Corrected various mod configurations for stability.
+- Updated key controls (see description for details).
+
+---
+
+**IMPORTANT:**  
+***Always back up your world before updating to avoid potential data loss.***
