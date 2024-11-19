@@ -1,1 +1,25 @@
-release v1.0
+Official release of v1.0!
+
+We are excited to announce the first stable version of our RPG modpack!
+
+Main features of v1.0:
+- Difficulty system based on dimensions: monsters in dungeons and advanced dimensions will be stronger.
+- Many explorable dimensions, offering new adventures and challenges.
+- An explorable Solar System, for space adventures.
+- Improved combat system thanks to the Better Combat mod.
+- Rarity of items, with unique treasures and gear.
+- Introduction of magic, adding more variety to gameplay.
+- Dynamic seasons that affect the world and gameplay.
+- Tornadoes and extreme weather events, providing unpredictable challenges.
+- Random meteorites, falling and changing the environment around you.
+
+How to update the modpack:
+1. Open CurseForge and go to the "Profile" section of the modpack.
+2. Select "Modpack Version" and update by creating a new profile.
+3. Important note: worlds will not be moved automatically.
+   - Move them manually by going to the folder of the previous profile.
+
+Download the modpack now from CurseForge:
+https://www.curseforge.com/minecraft/modpacks/project-the-rpg-reborn
+
+Thank you for your support and enjoy the adventure!
