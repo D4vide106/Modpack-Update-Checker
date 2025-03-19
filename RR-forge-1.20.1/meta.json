@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 9,
+  "versions": [
+    {
+      "id": "1.0",
+      "releasedAt": 1716943348000,
+      "updateType": "stable",
+      "promotions": {
+        "downloads": {
+          "generic": "https://discord.gg/thfPJ7QAPJ",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-the-rpg-reborn/files/123456"
+        }
+      }
+    }
+  ]
+}
