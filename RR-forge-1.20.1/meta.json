@@ -2,7 +2,7 @@
   "schemaVersion": 9,
   "versions": [
     {
-      "id": "1.0",
+      "id": "v1.0",
       "releasedAt": 1716943348000,
       "updateType": "stable",
       "promotions": {
