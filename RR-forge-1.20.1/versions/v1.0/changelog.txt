@@ -1,1 +1,14 @@
-Primary release
+**Official release of Realistic RPG v1.0!**  
+
+We are excited to announce the first stable version of our **Realistic RPG** modpack!  
+
+### **Main features of v1.0:**  
+- **Level progression system** – Improve your character and unlock new abilities.  
+- **Skill system** – Customize your playstyle with unique skills.  
+- **Firearms** – Fight with a realistic arsenal of modern weapons.  
+- **Dynamic weather** – Storms, snow, and climate changes affect gameplay.  
+- **Seasonal cycle** – Each season alters the world and its difficulty.  
+- **Advanced survival mechanics** – Manage hunger, temperature, and resources.  
+- **Random events** – Unexpected encounters, natural disasters, and challenges that test your skills. 
+
+Thank you for your support, and enjoy the adventure in **Realistic RPG**! 🚀🔥
