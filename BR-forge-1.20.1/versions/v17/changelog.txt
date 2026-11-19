@@ -1,0 +1,27 @@
+**[Release update v17]**
+--
+### **FORGE IS NOW 47.4.29**
+Version v17 | [Curseforge](https://www.curseforge.com/minecraft/modpacks/project-boss-rpg) | [Modrinth](https://modrinth.com/modpack/project-boss-rpg) 
+
+**Major Overhauls & Additions:**
+--
+* Upgraded Forge to official latest release 47.4.29.
+* 77+ mods updated to latest 1.20.1 builds (0 duplicate JARs).
+* New Custom Core Integration Mod: **Aethelgard** (`aethelgard-1.0.0-forge.jar`).
+  - Cross-mod silver unification across Ice & Fire, Werewolves, Spartan Weaponry & Shields.
+  - Unified `#forge:bosses` tag for all 34 bosses in the modpack (scaling & coop loot bags).
+  - Native overrides for broken model deserialization (trapdoor, grottols, greatsword).
+* Expanded FTB Quests to 23 chapters and 759 quests:
+  - Added new chapter: **Dimensions Floor 9 - Babel Tower** (5 quests).
+  - Added new chapter: **The Lore - Structural Beyond** (17 quests).
+  - Sanitized and fixed all broken reward items and legacy dependencies.
+* Performance & Low-End Optimization:
+  - Activated ModernFix Dynamic Resources for massive RAM and startup reduction.
+  - Enabled fast model rendering in Amendments for lanterns and hooks.
+  - Upgraded xali's Potions to official 1.20.1 release (v1.2.0).
+* Main Menu & Polish:
+  - Cleaned FancyMenu layout, resolved misplaced dungeon config buttons.
+  - Fully integrated update checker with official GitHub repository.
+
+---
+***AS ALWAYS BE SURE TO BACK UP YOUR WORLD BEFORE UPDATING***.
