@@ -102,6 +102,18 @@
           "generic": "https://discord.gg/thfPJ7QAPJ"
         }
       }
+    },
+    {
+      "id": "v17",
+      "releasedAt": 1795046932749,
+      "updateType": "stable",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/project-boss-rpg",
+          "modrinth": "https://modrinth.com/modpack/project-boss-rpg",
+          "generic": "https://discord.gg/thfPJ7QAPJ"
+        }
+      }
     }
   ]
 }
